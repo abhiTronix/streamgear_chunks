@@ -1,2 +1,2 @@
 # streamgear_chunks
-MPEG-DASH chunks for StreamGear
+MPEG-DASH chunks built with StreamGear
